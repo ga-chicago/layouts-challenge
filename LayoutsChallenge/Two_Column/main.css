@@ -1,0 +1,40 @@
+#wrapper {
+    width: 960px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    background-color: grey;
+    width: 56rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 2rem;
+}
+section {
+    height: 30rem;
+    width: 42rem;
+    margin: 1rem 0rem 1rem 0rem;
+    background: grey;
+    float: left;
+}
+
+aside{
+    height: 30rem;
+    width: 17rem;
+    margin: 1rem 0rem 1rem 0rem;
+    background: grey;
+    float: right;
+}
+
+footer {
+    background-color: grey;
+    width: 56rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 2rem;
+    clear: both;
+}
+
+

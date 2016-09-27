@@ -1,0 +1,66 @@
+#wrapper {
+//background-color: grey;
+    width: 960px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+#logo {
+    width: 10rem;
+    height: 5rem;
+    background-color: yellow;
+    //padding: 0rem 1rem 1rem 0rem;
+    //margin: 0rem 0rem 5rem 0rem;
+    float: left;
+}
+
+nav {
+    background-color: black;
+    width: 1rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 5rem;
+    margin: 1rem 0rem 1rem 1rem;
+    float: right;
+}
+
+header {
+    background-color: grey;
+    width: 56rem;
+    height: 9rem;
+    padding: 2rem 2rem 3rem 2rem;
+    margin: 5rem 0rem 1rem 0rem;
+
+}
+
+
+#column1 {
+    height: 16rem;
+    width: 19rem;
+    margin: 0rem 1rem 1rem 0rem;
+    background: grey;
+    float: left;
+}
+
+#column2 {
+    height: 16rem;
+    width: 18rem;
+    margin: 0rem 1rem 1rem 1rem;
+    background: grey;
+    float: left;
+}
+
+#column3 {
+    height: 16rem;
+    width: 19rem;
+    margin: 0rem 0rem 1rem 1rem;
+    background: grey;
+    float: left;
+}
+
+footer {
+    background-color: grey;
+    width: 56rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 2rem;
+    clear: both;
+}

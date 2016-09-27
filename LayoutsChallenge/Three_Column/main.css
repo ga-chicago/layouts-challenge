@@ -1,0 +1,54 @@
+#wrapper {
+    //background-color: grey;
+    width: 960px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    background-color: grey;
+    width: 56rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 2rem;
+}
+
+#column1 {
+    height: 30rem;
+    width: 12rem;
+    //padding: 1rem 0rem 1rem 0rem;
+    margin: 1rem 1rem 1rem 0rem;
+    background: grey;
+    float: left;
+}
+
+#column2 {
+    height: 30rem;
+    width: 32rem;
+    //padding: 1rem 1rem 1rem 1rem;
+    margin: 1rem 1rem 1rem 1rem;
+    background: grey;
+    float: left;
+}
+
+#column3 {
+    height: 30rem;
+    width: 12rem;
+    //padding: 1rem 0rem 1rem 0rem;
+    margin: 1rem 0rem 1rem 1rem;
+    background: grey;
+    float: left;
+}
+
+footer {
+    background-color: grey;
+    width: 56rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 2rem;
+    clear: both;
+}
+
+
+
