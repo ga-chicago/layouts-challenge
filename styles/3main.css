@@ -37,7 +37,7 @@ header {
 #secondfirstcolumn {
 	height: 25%;
 	width:26%;
-	background-color: blue;
+	background-color: grey;
 	margin: 1%;
 	display: block;
 	float: left;
@@ -46,7 +46,7 @@ header {
 #secondsecondcolumn {
 	height: 25%;
 	width:26%;
-	background-color: blue;
+	background-color: grey;
 	margin: 1%;
 	float: left;
 }
@@ -54,7 +54,7 @@ header {
 #secondthirdcolumn {
 	height: 25%;
 	width:26%;
-	background-color: blue;
+	background-color: grey;
 	margin: 1%;
 	float: left;
 }
