@@ -1,0 +1,54 @@
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+  background: white; 
+  
+}
+
+header {
+	height: 20%;
+	width: 100%;
+	background: blue;
+}
+
+#left {
+	width: 17%;
+	height: 60%;
+	background-color: orange;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 15px;
+}
+
+#middle {
+	width: 63%;
+	height: 60%;
+	background-color: purple;
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+#right {
+	width: 17%;
+	height: 60%;
+	background-color: orange;
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 15px;
+}
+
+footer {
+	width: 100%;
+	height: 20%;
+	background-color: blue;
+	clear: both;	
+}
