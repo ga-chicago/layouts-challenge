@@ -1,0 +1,64 @@
+#wrapper {
+//background-color: grey;
+    width: 960px;
+    margin: 0 auto;
+}
+
+body {
+    background-color: white;
+}
+
+header {
+    background-color: grey;
+    width: 56rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 2rem;
+}
+
+section {
+    height: 20rem;
+    width: 29rem;
+    margin: 1rem 1rem 1rem 0em;
+    background: grey;
+    float: left;
+}
+
+aside{
+    height: 20rem;
+    width: 29rem;
+    margin: 1rem 0rem 1rem 1rem;
+    background: grey;
+    float: right;
+}
+
+#column1 {
+    height: 22rem;
+    width: 19rem;
+    margin: 0rem 1rem 1rem 0rem;
+    background: grey;
+    float: left;
+}
+
+#column2 {
+    height: 22rem;
+    width: 18rem;
+    margin: 0rem 1rem 1rem 1rem;
+    background: grey;
+    float: left;
+}
+
+#column3 {
+    height: 22rem;
+    width: 19rem;
+    margin: 0rem 0rem 1rem 1rem;
+    background: grey;
+    float: left;
+}
+
+footer {
+    background-color: grey;
+    width: 56rem;
+    height: 1rem;
+    padding: 3rem 2rem 3rem 2rem;
+    clear: both;
+}
