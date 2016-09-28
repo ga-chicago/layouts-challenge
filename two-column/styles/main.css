@@ -1,0 +1,43 @@
+#container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+
+#top {
+	height: 125px;
+	width: 100%;
+	background-color: lightgray;
+	margin-top: 50px;
+	margin-bottom: 18px;
+	border: 1px solid;
+
+}
+
+#middle-left {
+	height: 400px;
+	width: 70%;
+	background-color: lightgray;
+	display: block;
+	float: left;
+	margin-bottom: 18px;
+	border: 1px solid;
+}
+
+#middle-right {
+	height: 400px;
+	width: 28%;
+	background-color: lightgray;
+	display: block;
+	float: right;
+	margin-bottom: 18px;
+	border: 1px solid;
+}
+
+#bottom {
+	height: 125px;
+	width: 100%;
+	background-color: lightgray;
+	clear: both;
+	border: 1px solid;
+}

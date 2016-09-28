@@ -1,0 +1,101 @@
+#wrapper {
+	width: 60%;
+	margin: 0 auto;
+	clear: both;
+}
+
+#nav-left {
+	display: block;
+	float: left;
+	background: lightgrey;
+	height: 100px;
+	width: 25%;
+	margin-bottom: 15px;
+	border: 1px solid;
+}
+
+.nav-box {
+	height: 28px;
+	width: 11%;
+	background: lightgrey;
+	float: right;
+	margin-left: 10px;
+	margin-top: 25px;
+	border: 1px solid;
+}
+
+header {
+	width: 100%;
+}
+
+footer {
+	margin-left: auto;
+	margin-right: auto;
+	height: 100px;
+	width: 100%;
+	background: lightgrey;
+	border: 1px solid black;
+	clear: both;
+}
+
+aside {
+	height: 500px;
+	width: 17%;
+	background: lightgrey;
+	float: left;
+	clear: both;
+	margin-bottom: 15px;
+	border: 1px solid black;
+}
+
+
+#hero-top {
+	height: 100px;
+	width: 80%;
+	float: right;
+	background: lightgrey;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#hero-container {
+	height: 300px;
+	width: 80.2%;
+	float: right;
+	margin-left: auto;
+	margin-left: auto;
+}
+
+#hero-middle-left {
+	height: 220px;
+	width: 75%;
+	float: left;
+	background: lightgrey;
+	border: 1px solid black;
+	margin-left: auto;
+	margin-right: auto;
+	margin: 15px 10px 10px 0px;
+}
+
+#hero-middle-right {
+	height: 220px;
+	width: 20%;
+	float: left;
+	background: lightgrey;
+	border: 1px solid black;
+	margin: 15px 0px 10px 20px;
+}
+
+#lower-container {
+	height: 100px;
+	width: 75%;
+	float: right;
+}
+
+
+
+
+
+
+

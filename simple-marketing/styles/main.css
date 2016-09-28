@@ -1,0 +1,54 @@
+#wrapper {
+    max-width: 65%;
+    margin: 0 auto;
+}
+
+header {
+    background-color: lightgray;
+    height: 125px;
+    width: 97.5%;
+    margin: 10px 10px 10px 10px;
+    border: 1px solid;
+}
+
+#top-container {
+    width: 100%;
+    clear: both;
+
+}
+
+.two {
+    background-color: lightgray;
+    float: left;
+    height: 280px;
+    width: 47.5%;
+    border: 1px solid;
+    margin: 10px 10px 10px 10px;
+}
+
+
+#bottom-container {
+    width: 100%;
+    clear: both;
+}    
+
+
+.three{
+    height: 125px;
+    width: 30.9%; 
+    background-color: lightgray;
+    float: left;
+    margin: 10px 10px 18px 10px;
+    border: 1px solid;
+    
+}    
+
+
+footer {
+    background-color: lightgray;
+    height: 125px;
+    width: 97.5%;
+    margin: 10px 10px 10px 10px;
+    border:1px solid;
+    clear: both;
+}
