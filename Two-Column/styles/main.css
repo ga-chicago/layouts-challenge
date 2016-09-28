@@ -1,0 +1,47 @@
+body {
+	padding: 10px;
+}
+
+header {
+	width: 100%;
+	height: 125px;
+	margin: 10px auto;
+	background-color: lightgray;
+	border: 1px solid gray;
+}
+
+section	{
+	width: 100%;
+	height: 400px;
+	margin: 10px auto;
+}
+
+#div_left {
+	width: 66%;
+	height: 400px;
+	margin: 10px auto;
+	background-color: lightgray;
+	border: 1px solid gray;
+	float: left;
+	display: inline-block;
+}
+
+#div_right {
+	width: 32%;
+	height: 400px;
+	margin: 10px auto;
+	background-color: lightgray;
+	border: 1px solid gray;
+	float: right;
+	display: inline-block;
+}
+
+footer {
+	width: 100%;
+	height: 125px;
+	margin: 10px auto;
+	margin-top: 30px;
+	background-color: lightgray;
+	border: 1px solid gray;
+	clear: both;
+}
