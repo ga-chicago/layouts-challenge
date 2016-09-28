@@ -1,0 +1,99 @@
+body {
+    margin:4%;
+    padding:0;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+header {
+    background-color: #ddd;
+    height: 125px;
+    width: 25%;
+    border:1px solid #444;
+    clear: right;
+}
+nav {
+    width: 70%;
+    clear: both;
+    margin: -8% 0 0 30%;
+}
+aside {
+    height: 660px;
+    width: 25%;
+    background-color: #ddd;
+    float:left;
+    border:1px solid #444;
+    margin: 5% 0 2% 0;
+}
+ul {
+    padding:0;
+}
+
+ul li {
+    background-color: #ddd;
+    display: inline;
+    height: 125px;
+    list-style-type: none;
+    padding: 4% 6%;
+    margin: 12% 0 2% 6%;
+    border:1px solid #444;
+
+}
+
+#top-bar {
+    background-color: #ddd;
+    width: 70%;
+    height: 25%;
+    float: right;
+    margin: 6% 2% 2% 0;
+    border:1px solid #444;
+}
+
+#middle-section {
+    width: 70%;
+    float:right;
+    margin: 0 2% 0 0;
+}
+
+#middle-section-one {
+    background-color: #dddddd;
+    width: 75%;
+    height: 50%;
+    border:1px solid #444;
+    float: left;
+}
+#middle-section-two {
+    background-color: #dddddd;
+    width: 20%;
+    height: 50%;
+    border:1px solid #444;
+    float: right;
+}
+
+.squares {
+    background-color: #dddddd;
+    width: 20%;
+    height: 25%;
+    margin: 2% 0 2% 4.5%;
+    float:right;
+    border:1px solid #444;
+}
+
+
+#four-squares {
+    width: 70%;
+    float:right;
+    margin: 1% 2% 0 0;
+
+}
+
+footer {
+    background-color: #ddd;
+    clear: both;
+    height: 125px;
+    width: 98%;
+    margin: 0;
+    border:1px solid #444;
+}
